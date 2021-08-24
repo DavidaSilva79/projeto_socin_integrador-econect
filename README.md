@@ -42,10 +42,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
    <li><a href="https://projectlombok.org/">
     <img src="https://img.shields.io/badge/Lombok_1.18.12-F7B500.svg?&style=for-the-badge&logo=&logoColor=white" alt="Lombok">
   </a></li>
- <li><a href="https://www.w3.org/TR/soap/">
+  <li><a href="https://www.w3.org/TR/soap/">
     <img src="https://img.shields.io/badge/soap_1.4.2-8BC0D0.svg?&style=for-the-badge&logo=&logoColor=white" alt="soap">
-  </a></                             
+   </a>
+    </ul>                            
                                                                                                                                        
+
 ## 🚀 Como executar o Integrador-Econect
                                                                                                                  
 ### Pré-requisitos
