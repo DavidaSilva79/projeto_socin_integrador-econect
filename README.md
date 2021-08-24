@@ -10,6 +10,14 @@
 ## 💻 Integrador-Econect
                  
 🚧 Em construção... 🚧
+     Projeto Responsável para integração entre aplicações   
+     Ecommerce  
+     Izio            
+     Ofertas
+     Concentrador WEB
+     Panamah 
+     PROPZ            
+🚧 Em construção... 🚧                 
 
 
 ## Tópicos
