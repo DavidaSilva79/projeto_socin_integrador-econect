@@ -10,29 +10,17 @@
 ## 💻 Integrador-Econect
                                   
 O Integrador-Econect reúne diversas integrações do econect com plataformas como a PROPZ solução de CRM e inteligência analítica, Panamah um serviço de análise de Big Data, Izio plataforma de CRM para o varejo e gestor de ofertas, Concentrador web que agrega várias funcionalidades ao concentrador padrão e integrações com Ecommerces externos que utilizam o ERP RMS da TOTVS. Segue abaixo as funcionalidades referentes a cada integração com as plataformas citadas.
+        
+<strong>PROPZ:</strong> serviços de exportação de movimentos para a Propz, integração de movimentos da Propz, realização da exportação de relatórios diários e do dia anterior para Propz.
                  
-     Ecommerce  
-     Izio            
-     Ofertas
-     Concentrador WEB
-     Panamah 
-     PROPZ   
+<strong>Ecommerce:</strong> serviços de importação e atualização de produtos, vindo do RMS para a base do Concentrador WEB, exportação de estoque que realizar o envio de estoque atualizado para a WEVO dos produtos na base do ecommerce.
                  
-
+<strong>Panamah:</strong> serviços de exportação de vendas e produtos para o Panamah
                  
-<strong>PROPZ:</strong> responsável por fazer a integração do econect com e-commerces externos, ele permite visualizar um relatório para acompanhar os pedidos, bem como seus status, a forma de pagamento e outros.
+<strong>Concentrador-web:</strong> serviço de importação de usuário tem por suma funcionalidade buscar os usuários do Concentrador WEB.
                  
-<strong>Ecommerce:</strong> permite o econect fazer uso do programa farmácia popular que dá descontos para medicamentos, permite configurar, criar ou consultar uma solicitação referente a farmácia popular.
-                 
-<strong>Panamah:</strong> permite visualizar um relatório de acompanhamento de divergências do Self Checkout com o objetivo de acompanhar os produtos para que o cliente possa tomar a devidas providências para corrigir as causas.
-                 
-<strong>Concentrador-web:</strong> permite consultar e imprimir as Relatório de vendas que utilizam uma Oferta Personalizada. 
-                 
-<strong>Izio:</strong> permite visualizar o envio de movimentos referentes ao SAT o SEFAZ, mostra qual Cupom já foi conciliado e qual ainda está pendente e também visualizar o hardware SAT e sua situação.
+<strong>Izio:</strong> serviços de exportação de produtos e pessoas para a Izio, e importação de personas da Izio para o Fidelidade.
              
-🚧 Em construção... 🚧                 
-
-
 ## Tópicos
 
 - [Tecnologias](#-Tecnologias)
