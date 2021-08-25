@@ -9,7 +9,7 @@
 
 ## 💻 Integrador-Econect
                                   
-O Integrador-Econect reúne diversas integrações do econect com plataformas como a Propz solução de CRM e inteligência analítica, Panamah um serviço de análise de Big Data, Izio plataforma de CRM para o varejo e gestor de ofertas, Concentrador web que agrega várias funcionalidades ao concentrador padrão e integrações com Ecommerces externos que utilizam o ERP RMS da TOTVS.
+O Integrador-Econect reúne diversas integrações do econect com plataformas como a Propz solução de CRM e inteligência analítica, Panamah um serviço de análise de Big Data, Izio plataforma de CRM para o varejo e gestor de ofertas, Concentrador web que agrega várias funcionalidades ao concentrador padrão e integrações com Ecommerces externos que utilizam o ERP RMS da TOTVS. Segue abaixo as funcionalidades referentes a cada integracao com as plataformas citadas.
                  
      Ecommerce  
      Izio            
