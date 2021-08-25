@@ -10,13 +10,30 @@
 ## 💻 Integrador-Econect
                  
 🚧 Em construção... 🚧
+                 
      Projeto Responsável para integração entre aplicações   
      Ecommerce  
      Izio            
      Ofertas
      Concentrador WEB
      Panamah 
-     PROPZ            
+     PROPZ   
+                 
+   O Concentrador-Web é um produto criado usando Java Enterprise Edition que agrega várias funcionalidades ao concentrador padrão, como ele é um produto web ele utiliza o WildFly da empresa Jboss que é um servidor de aplicações web. O produto agrega ao concentrador diversas funcionalidades como.
+                 
+<strong>E-commerce-Pedidos:</strong> responsável por fazer a integração do econect com e-commerces externos, ele permite visualizar um relatório para acompanhar os pedidos, bem como seus status, a forma de pagamento e outros.
+                 
+<strong>Farmácia:</strong> permite o econect fazer uso do programa farmácia popular que dá descontos para medicamentos, permite configurar, criar ou consultar uma solicitação referente a farmácia popular.
+                 
+<strong>Self Checkout:</strong> permite visualizar um relatório de acompanhamento de divergências do Self Checkout com o objetivo de acompanhar os produtos para que o cliente possa tomar a devidas providências para corrigir as causas.
+                 
+<strong>Promoções:</strong> permite consultar e imprimir as Relatório de vendas que utilizam uma Oferta Personalizada. 
+                 
+<strong>Monitor Fiscal:</strong> permite visualizar o envio de movimentos referentes ao SAT o SEFAZ, mostra qual Cupom já foi conciliado e qual ainda está pendente e também visualizar o hardware SAT e sua situação.
+                 
+<strong>Tesouraria-cadastros:</strong> permite cadastrar uma bandeira de cartão, especificar sua condição e forma de pagamento, o tipo (crédito ou débito), a rede autorizada e a taxa administrativa, cadastrar todas as finalizadoras que são utilizadas pelo pdv, cadastrar as operadoras de celulares e operadoras de cartão que estarão disponíveis no pdv.
+                 
+<strong>Tesouraria-Conciliação:</strong> permite visualizar os movimentos que precisam ser conciliados ou os movimentos já fechados Através da conciliação, todos os comprovantes são validados, garantindo que os caixas estão íntegros e que todos os comprovantes estão no fechamento do operador.               
 🚧 Em construção... 🚧                 
 
 
