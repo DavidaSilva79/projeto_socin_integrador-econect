@@ -70,7 +70,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina o e-conect, Java JDK 1.8, MySQL 5.7, FTP e SSH, Mavem,
-além disto é bom ter um editor para trabalhar com o código como Eclipse ou o Spring Tools Suite em ambos é necessario instalar e configurar o lombok.
+além disto é bom ter um editor para trabalhar com o código como Eclipse ou o Intellij em ambos é necessário instalar e configurar o lombok.
 
 
 ### 🎲 Executando o Integrador Econect
@@ -170,12 +170,32 @@ Lista de Plug-ins utilizados:
   - Dê Apply
                                                                                                                  
 
-### 🎁 Geração de executavel produção
+### 🎁 Geração do executavel produção
                                                                                                                  
-- Fazer o build usando o mvn clean package
-- Pegar o arquivo jar presente na pasta integradortotvs\aplicacao\target integrador-rms-1.0.0.jar
-                                                                                                        
+## Gerando .JAR
+Para implantar no você precisa ter o maven instalado na sua máquina para isto execute o seguinte comando:
+```git
+sudo apt install maven -y
+```
+Em seguida é necessário vincular o maven instalado com o `jdk-12` para isto deve-se criar um atalho no `bashrc`, assim abra o bashrc:
+```shell
+sudo gedit ~/.bashrc
+```
+Em seguida insira o código abaixo no final do `.bashrc`:
+```shell
 
+alias mvn12="JAVA_HOME=<caminho-para-o-jdk>/jdk-12 && mvn"
+```
+Salve, feche o editor e execute o seguinte comando para recarregar o terminal:
+```shell
+sudo . ~/.bashrc
+```
+Feito isto navegue até a pasta do projeto do integrador e execute o seguinte comando para gerar a instalação:
+```shell
+mvn12 clean && mvn12 -X package && java -jar ./target/integrador.1.0.jar
+```
+Após o comando ser executado, um .jar deve ser gerado na pasta `/target` do projeto.
+                                                                                                        
 ## 💫 Features
 
 O conteúdo referente as features do Integrador-Econect se encontra no local  do link abaixo.
