@@ -200,12 +200,55 @@ Após o comando ser executado, um .jar deve ser gerado na pasta `/target` do pro
       
 Abaixo segue o link para outras informações referentes ao integrador-econect.
       
-<ul> 
-  <li><a href="https://www.java.com">teste</a></li>
-  <li><a href="https://www.java.com">teste</a></li>
-  <li><a href="https://www.java.com">teste</a></li>       
-</ul>                  
-                                                                                                        
+#### Configurações Gerais
+[Quais são os Serviços existentes](https://github.com/socin-econect/integrador-econect/wiki/Lista-atualizada-de-servi%C3%A7os)
+
+[Define tempo de repetição do serviço](https://github.com/socin-econect/integrador-econect/wiki/Atributos-de-Tempo)
+
+#### Implantação
+[Instalação no cliente](https://github.com/socin-econect/integrador-econect/wiki/Implantar-no-cliente)
+
+[Instalação de mais de um serviço](https://github.com/socin-econect/integrador-econect/wiki/Instala%C3%A7%C3%A3o-mais-de-um-servi%C3%A7o-na-mesma-m%C3%A1quina-e-ou-instala%C3%A7%C3%A3o-sem-precisar-de-mudar-apontamento-do-java)
+
+[Comandos Úteis](https://github.com/socin-econect/integrador-econect/wiki/Comandos-%C3%BAteis)
+
+#### Páginas de Configuração Específica de Serviço
+
+Ecommerce
+***
+ - [Importação de Produtos](https://github.com/socin-econect/integrador-econect/wiki/Ecommerce)
+ - [Exportação de Estoque](https://github.com/socin-econect/integrador-econect/wiki/Exporta%C3%A7%C3%A3o-de-Estoque)
+
+Izio
+***
+ - [Exportação de Produtos](https://github.com/socin-econect/integrador-econect/wiki/Izio-Produtos)
+ - [Exportação de Pessoa](https://github.com/socin-econect/integrador-econect/wiki/Izio-Pessoa)
+ - [Importação de Persona](https://github.com/socin-econect/integrador-econect/wiki/Izio-Persona)
+
+Ofertas
+***
+ - [Oferta Personalizada](https://github.com/socin-econect/integrador-econect/wiki/Oferta-Personalizada)
+
+Concentrador WEB
+***
+ - [Importação de Usuários](https://github.com/socin-econect/integrador-econect/wiki/Importa%C3%A7%C3%A3o-de-Usu%C3%A1rio)
+
+Panamah
+****
+ - [Venda](https://github.com/socin-econect/integrador-econect/wiki/Panamah-Venda)
+ - [Produto](https://github.com/socin-econect/integrador-econect/wiki/Panamah-Produto)
+
+
+PROPZ
+***
+ * [Integração de Movimento PROPZ](https://github.com/socin-econect/integrador-econect/wiki/Integra%C3%A7%C3%A3o-Movimento-Propz)
+
+ * [Carga Diária PROPZ](https://github.com/socin-econect/integrador-econect/wiki/Carga-Di%C3%A1ria-PROPZ)
+
+ * [Carga de Liberação Propz](https://github.com/socin-econect/integrador-econect/wiki/Carga-de-Libera%C3%A7%C3%A3o-PROPZ)
+
+ * [Carga do dia anterior Propz](https://github.com/socin-econect/integrador-econect/wiki/Carga-dia-anterior-Propz)      
+                                                                                                              
 ## 💫 Features
 
 O conteúdo referente as features do Integrador-Econect se encontra no local  do link abaixo.
