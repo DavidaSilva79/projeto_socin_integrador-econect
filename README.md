@@ -51,11 +51,17 @@ As seguintes ferramentas foram usadas na construção do projeto:
     <img src="https://img.shields.io/badge/Apache Maven_3.8.1-E4405F.svg?&style=for-the-badge&logo=apachemaven&logoColor=white" alt="apache-maven">
   </a></li>
    <li><a href="https://projectlombok.org/">
-    <img src="https://img.shields.io/badge/Lombok_1.18.12-F7B500.svg?&style=for-the-badge&logo=&logoColor=white" alt="Lombok">
+    <img src="https://img.shields.io/badge/Lombok_1.18.8-F7B500.svg?&style=for-the-badge&logo=&logoColor=white" alt="Lombok">
   </a></li>
-  <li><a href="https://www.w3.org/TR/soap/">
-    <img src="https://img.shields.io/badge/soap_1.4.2-8BC0D0.svg?&style=for-the-badge&logo=&logoColor=white" alt="soap">
-   </a>
+   <li><a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="amazon">
+   </a></li>
+   <li><a href="https://sites.google.com/site/gson/gson-user-guide">
+    <img src="https://img.shields.io/badge/gson_2.8.5-007CFF?&style=for-the-badge&logo=&logoColor=white" alt="gson">
+  </a></li>
+   <li><a href="https://www.h2database.com/html/main.html">
+    <img src="https://img.shields.io/badge/h2database_1.4.199-43B02A?&style=for-the-badge&logo=white" alt="h2database">
+  </a></li>                                                                                                                            
     </ul>                            
                                                                                                                                        
 
