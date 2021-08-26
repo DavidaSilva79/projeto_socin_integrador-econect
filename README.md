@@ -172,7 +172,7 @@ Lista de Plug-ins utilizados:
 
 ### 🎁 Geração do executavel produção
                                                                                                                  
-## Gerando .JAR
+### Gerando .JAR
 Para implantar no você precisa ter o maven instalado na sua máquina para isto execute o seguinte comando:
 ```git
 sudo apt install maven -y
@@ -195,6 +195,16 @@ Feito isto navegue até a pasta do projeto do integrador e execute o seguinte co
 mvn12 clean && mvn12 -X package && java -jar ./target/integrador.1.0.jar
 ```
 Após o comando ser executado, um .jar deve ser gerado na pasta `/target` do projeto.
+      
+## Outras informações  
+      
+Abaixo segue o link para outras informações referentes ao integrador-econect.
+      
+<ul> 
+  <li><a href="https://www.java.com">teste</a></li>
+  <li><a href="https://www.java.com">teste</a></li>
+  <li><a href="https://www.java.com">teste</a></li>       
+</ul>                  
                                                                                                         
 ## 💫 Features
 
